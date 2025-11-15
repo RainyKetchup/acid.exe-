@@ -1,4 +1,4 @@
-# acid.exe-
+# acid.exe
 ## 20-minute GDI malware that bricks your device.
 
 1. Download the "**acid.7z**" file
